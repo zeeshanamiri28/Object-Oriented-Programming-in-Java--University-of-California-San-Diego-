@@ -1,0 +1,9 @@
+		map2 = new UnfoldingMap(this, 450, 50, 350, 500, provider);
+		
+		map2.zoomAndPanTo(zoomLevel, new Location(23.7959f, 90.35759f));
+		
+		MapUtils.createDefaultEventDispatcher(this, map2);
+		
+		map2.draw();
+		
+		https://github.com/mehdihasan/unfolding-maps
