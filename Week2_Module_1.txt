@@ -4,6 +4,6 @@
 		
 		MapUtils.createDefaultEventDispatcher(this, map2);
 		
-		map2.draw();
+		map2.draw(); 
 		
 		
